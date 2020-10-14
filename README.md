@@ -1,0 +1,2 @@
+# DinnyAplKotlin
+Aplikasi Kotlin Sederhana
